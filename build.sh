@@ -1,3 +1,4 @@
+#!/bin/bash
 mkdir -p out
 export CROSS_COMPILE=~/linaro48/bin/arm-eabi-
 #export USE_CCACHE=1
