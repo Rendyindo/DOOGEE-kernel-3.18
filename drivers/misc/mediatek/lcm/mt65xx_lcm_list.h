@@ -27,6 +27,7 @@ extern LCM_DRIVER hct_nt35521s_dsi_vdo_hd_boe_50_xld;
 extern LCM_DRIVER hct_hx8394d_dsi_vdo_hd_cmi;
 extern LCM_DRIVER hct_rm68200_dsi_vdo_hd_auo;
 extern LCM_DRIVER hct_nt35521_dsi_vdo_hd_boe;
+extern LCM_DRIVER r69339_hd720_dsi_vdo_sharp_lcm_drv;
 extern LCM_DRIVER hct_otm1284a_dsi_vdo_hd_boe;
 extern LCM_DRIVER hct_otm1285a_dsi_vdo_hd_boe_3lane;
 extern LCM_DRIVER nt35521_dsi_6735_H;
