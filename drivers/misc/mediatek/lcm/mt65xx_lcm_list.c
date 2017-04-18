@@ -56,6 +56,9 @@ LCM_DRIVER *lcm_driver_list[] = {
 #if defined(HCT_NT35521S_DSI_VDO_HD_BOE_50_XLD)
 &hct_nt35521s_dsi_vdo_hd_boe_50_xld,
 #endif
+#if defined(R69339_HD720_DSI_VDO_SHARP)
+&r69339_hd720_dsi_vdo_sharp_lcm_drv,
+#endif
 #if defined(HCT_HX8394D_DSI_VDO_HD_CMI)
 &hct_hx8394d_dsi_vdo_hd_cmi,
 #endif
